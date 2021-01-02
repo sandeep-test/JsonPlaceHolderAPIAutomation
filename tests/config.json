@@ -1,0 +1,8 @@
+{
+  "prod": {
+    "url": "https://jsonplaceholder.typicode.com"
+  },
+  "local": {
+    "url": "http://localhost:4200"
+  }
+}
